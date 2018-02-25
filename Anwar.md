@@ -1,21 +1,20 @@
 # Tambah Judul Proyek Di Sini
 
 ## Profil
-Nama 	: Muhammad Naufal Refadi
-Nrp 	: 05111740000097
+Nama	: Ammar Dwi Anwari
+Nrp 	: 05111740000072
 
-Topik: line bot
+Topik : web game
 
-saya ingin membuat game advanture atau game moba analog versi werewolf
+saya mau buat game MONSTER HUNTER
 
-re: boleh, coba dianalisa werewolf permainannya seperti apa
+re: coba dipikirkan apa aja fitur-fiturnya
 
 ## Fitur
 isi fitur di sini. aku coba bantu :
-* Pemain dibagi jadi banyak role yang saling rahasia
-* Setiap malam ada pembunuhan
-* Setiap pagi ada eksekusi
-* Pemain bisa chat satu sama lain
+* Ada monster, ada uang, ada weapon
+* Bunuh monster untuk dapat uang
+* Uang bisa buat beli senjata yang lebih kuat
 * dst.
 Tambahi ya, semakin detail semakin bagus
 
