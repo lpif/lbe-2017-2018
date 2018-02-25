@@ -40,6 +40,7 @@ Choose your own difficulty, but be as realistic as possible.
 * Restaurant Review
 * Hotel and Flight Booking
 * Online Shop
+* Social Media
 * Line Chat Bot
 
 Create a markdown document to describe your project in great details.
