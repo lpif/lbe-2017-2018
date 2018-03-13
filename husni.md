@@ -18,7 +18,7 @@ kalo ketemu sumber inspirasi atau referensi yang bagus bisa tambahi di sini buat
 [Cheatsheet Markdown Document](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-## Materi Pertemuan Ke-2
+# Materi Pertemuan Ke-2
 -Pengenalan HTML, CSS, JS
 -Basic membuat HTML dan atau CSS
 -Meng-submit tugas di repo sendiri 
