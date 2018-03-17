@@ -23,3 +23,9 @@ kalo ketemu sumber inspirasi atau referensi yang bagus bisa tambahi di sini buat
 -Basic membuat HTML dan atau CSS
 -Meng-submit tugas di repo sendiri 
 	Link : https://github.com/azcrea/Dokumentasi-LBE-LP
+
+# Materi Pertemuan Ke-3
+-Pemberian materi tentang Basis Data
+-Basic menggunakan MySQL dan XAMPP
+-Mengedit template formulir dosen menjadi formulir mahasiswa
+-Mencoba mengedit templatenya jadi form lain, disubmit di repo sendiri
